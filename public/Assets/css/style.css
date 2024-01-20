@@ -1,6 +1,36 @@
 /* todo style separato per partials */
 
+/* header  */
 #headLogo {
     height: 5rem;
     margin: 1rem 0;
+}
+
+
+
+/* Content HOME  */
+
+#main {
+    background-color: #1c1c1c;
+    color: white;
+}
+
+#cardBox {
+    padding: 1rem 0;
+}
+
+#jumbo {
+    height: 25rem;
+    background-image: url(../images/jumbotron.jpg);
+    background-size: cover;
+}
+
+#series {
+    left: 10%;
+}
+
+.thumb {
+    width: 100%;
+    aspect-ratio: 1;
+    margin-bottom: 1rem;
 }
