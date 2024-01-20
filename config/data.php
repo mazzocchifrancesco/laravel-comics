@@ -2,6 +2,7 @@
 
 return [
 
+    // todo spostare dati header e footer in common e aggiungere a routes
 
     "home" => [
         "menuLinks" => [
@@ -155,7 +156,29 @@ return [
                 "sale_date" => "2019-04-10",
                 "type" => "graphic novel",
             ]
-        ]
+        ],
+        "bluebarLinks" => [
+            [
+                "title" => "digital comics",
+                "img" => "buy-comics-digital-comics.png"
+            ],
+            [
+                "title" => "dc merchandise",
+                "img" => "buy-comics-merchandise.png"
+            ],
+            [
+                "title" => "subscription",
+                "img" => "buy-comics-subscriptions.png"
+            ],
+            [
+                "title" => "comic shop locator",
+                "img" => "buy-comics-shop-locator.png"
+            ],
+            [
+                "title" => "dc power visa",
+                "img" => "buy-dc-power-visa.svg"
+            ],
+        ],
     ],
     "common" => []
 

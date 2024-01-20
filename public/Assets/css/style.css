@@ -34,3 +34,18 @@
     aspect-ratio: 1;
     margin-bottom: 1rem;
 }
+
+/* footer  */
+
+/* bluebar  */
+#bluebar {
+    background-color: #0282f9;
+}
+
+.linkCard {
+    height: 8rem;
+}
+
+.blueIcon {
+    height: 50%;
+}
